@@ -1,0 +1,8 @@
+com\prepation\digitalwallet\service\WalletService.class
+com\prepation\digitalwallet\model\Wallet.class
+com\prepation\digitalwallet\model\Transaction.class
+com\prepation\digitalwallet\DriverClass.class
+com\prepation\digitalwallet\model\Bank.class
+com\prepation\digitalwallet\service\IWalletService.class
+com\prepation\digitalwallet\model\FixedDeposit.class
+com\prepation\digitalwallet\model\OfferWallet.class
